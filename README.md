@@ -34,7 +34,7 @@
 - **Bilingual UI:** Instantly toggle between English and Vietnamese.
 
 ### 🚀 How to use
-1. Download the `ExcelMergerPro_Release.hta` file from the [Releases]([link-to-rele](https://github.com/dynamic504/Excel-Merger-Pro/releases/tag/v17.7)) tab.
+1. Download the `ExcelMergerPro_Release.hta` file from the [Releases](https://github.com/dynamic504/Excel-Merger-Pro/releases/tag/v17.7) tab.
 2. Double-click the file to open the app (Requires Microsoft Excel installed on your PC).
 3. Click the **Folder** button to scan a directory, or the **Files** button to select specific files.
 4. Choose your merge settings and click **Execute**.
